@@ -9,7 +9,7 @@ Well, it's fairly hard to get an appointment especially because you cannot copy 
 ## How to?
 
 - Install the Tampermonkey browser extension
-- Click on this [link](https://raw.githubusercontent.com/hExPY/blsspainvisa-auto-filler/main/blsspainvisa-auto-filler.js) to open the `blsspainvisa-auto-filler.js` file raw
+- Click on this [link](https://raw.githubusercontent.com/hExPY/blsspainvisa-auto-filler/main/blsspainvisa-auto-filler.user.js) to open the `blsspainvisa-auto-filler.user.js` file raw
 - It should automatically trigger tampermonkey to install the script -> Please review the script and read the comments. Never install something from the internet without verifying!
 - Replace the data from line 23 to 35 with yours. Don't forget to look up the field values for e.g. `VisaTypeId` as this might be different in your region.
 
