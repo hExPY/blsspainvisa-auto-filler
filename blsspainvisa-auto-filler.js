@@ -7,6 +7,8 @@
 // @match        https://*.blsspainvisa.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=blsspainvisa.com
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/hExPY/blsspainvisa-auto-filler/main/blsspainvisa-auto-filler.js
+// @updateURL    https://raw.githubusercontent.com/hExPY/blsspainvisa-auto-filler/main/blsspainvisa-auto-filler.js
 // ==/UserScript==
 
 // ### ------- Value lookup on the embassy page ------- ###
