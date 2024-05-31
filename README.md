@@ -1,6 +1,10 @@
 # blsspainvisa-auto-filler
 
-This tampermonkey script makes it easy as a breeze to finally get an appointment for a visa to spain.
+This tampermonkey script makes it easy as a breeze to finally get an appointment for a visa to Spain.
+
+## Potential Deprecation Notice
+
+The website of BLSSpain changed and now requires you to create an account. If you have information if the script still works or needs an update, please keep me posted through Issues or Pull requests.
 
 ## Why this tampermonkey script?
 
